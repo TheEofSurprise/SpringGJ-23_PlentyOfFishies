@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SM_PufferFish.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Stones/SM_stone1.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Stones/SM_stone2.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Stones/SM_stone3.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Textures/Atlas.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Atlas1.uasset",
 				"C:/Users/Master/Documents/Unreal Projects/GJ_23_PlentyOfFish/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
