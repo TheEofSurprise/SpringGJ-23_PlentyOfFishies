@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/LevelGJ/Level_Fishies.umap",
-				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Grass.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SM_PufferFish.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Stones/SM_stone1.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Stones/SM_stone2.uasset",
@@ -16,6 +14,16 @@
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_Coral.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_Coral2.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SK_Shawk.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Small/SM_Heart.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Grass_Basic.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Textures/T_Grass.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/LevelGJ/Level_Fishies.umap",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_SeaGrass.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_Grass_Single.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_SeaGrass_Single.uasset",
+				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/LevelGJ/Level_Fishies.umap",
+				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Grass.uasset",
 				"C:/Users/Master/Documents/Unreal Projects/GJ_23_PlentyOfFish/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
