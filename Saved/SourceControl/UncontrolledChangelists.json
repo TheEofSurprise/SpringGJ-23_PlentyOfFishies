@@ -22,8 +22,6 @@
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_SeaGrass.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_Grass_Single.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Foliage/SM_SeaGrass_Single.uasset",
-				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_LightBlue.uasset",
-				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Blue.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/Fish_Colors/M_Blue.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/Fish_Colors/M_LightBlue.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/Fish_Colors/M_DarkBlue.uasset",
@@ -39,6 +37,9 @@
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SK_NemoFish.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SK_PinkFish.uasset",
 				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Fishes/SK_SmallFishy.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Meshes/Small/SM_Lightning.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_LightBlue.uasset",
+				"E:/Fork/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Blue.uasset",
 				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/LevelGJ/Level_Fishies.umap",
 				"C:/Users/Master/Documents/Unreal Projects/SpringGJ-23_PlentyOfFishies/Content/Art/3d/Materials/M_Grass.uasset",
 				"C:/Users/Master/Documents/Unreal Projects/GJ_23_PlentyOfFish/Content/StarterContent/Architecture/Floor_400x400.uasset"
